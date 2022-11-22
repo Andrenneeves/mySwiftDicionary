@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Variaveis'/>
+        <page name='Vetores'/>
+        <page name='Dicionario'/>
+        <page name='Operadores'/>
+        <page name='ControleDeFluxoIf'/>
+        <page name='SwitchEEnum'/>
+        <page name='LacosDeRepeticao'/>
+        <page name='Functions'/>
+        <page name='Opcionais'/>
+        <page name='POO'/>
+        <page name='Protocolos'/>
+        <page name='Aleatoriedade'/>
+    </pages>
+</playground>
