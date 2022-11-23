@@ -13,5 +13,6 @@
         <page name='POO'/>
         <page name='Protocolos'/>
         <page name='Aleatoriedade'/>
+        <page name='DicionarioNoBD'/>
     </pages>
 </playground>
